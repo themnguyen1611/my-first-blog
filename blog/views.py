@@ -44,3 +44,6 @@ def post_remove(request, pk):
 
 def themnguyen_info(request):
     return render(request, 'blog/themnguyen_info.html')
+
+def cv(request):
+    return render(request, 'blog/cv.html')

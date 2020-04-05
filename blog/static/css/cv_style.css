@@ -1,0 +1,37 @@
+ul{
+	list-style-position:outside;
+	font:15px Arial;
+	padding-top:5px;
+}
+
+ul > li{
+	padding-top:4px;
+}
+
+.TaskTitle{
+	font: bold 20px Arial;
+	color:red;	
+	padding-left:10px;
+	padding-top:15px;
+}
+
+.TaskTime{
+	font: italic bold 14px Arial;
+	color:green;	
+	padding-left:10px;
+	padding-top:15px;
+}
+
+.TaskJob{
+	font: italic 14px Arial;
+	color:blue;	
+	padding-left:30px;
+	padding-top:5px;
+}
+
+.TaskDetail{
+	font:14px Arial;
+	color:purple;	
+	padding-left:60px;
+	padding-top:5px;
+}
