@@ -9,14 +9,14 @@ ul > li{
 }
 
 .TaskTitle{
-	font: bold 20px Arial;
+	font: italic bold 20px garamond,Arial;
 	color:red;	
 	padding-left:10px;
 	padding-top:15px;
 }
 
 .TaskTime{
-	font: italic bold 14px Arial;
+	font: italic bold 15px serif,Arial;
 	color:green;	
 	padding-left:10px;
 	padding-top:15px;
@@ -24,14 +24,13 @@ ul > li{
 
 .TaskJob{
 	font: italic 14px Arial;
-	color:blue;	
 	padding-left:30px;
 	padding-top:5px;
 }
 
 .TaskDetail{
-	font:14px Arial;
-	color:purple;	
-	padding-left:60px;
+	font:14px georgia,garamond,serif,Arial;
+	text-indent:20px;
+	padding-left:50px;
 	padding-top:5px;
 }
